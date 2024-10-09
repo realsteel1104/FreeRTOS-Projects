@@ -1,0 +1,1 @@
+This README provides an overview of implementing tasks in a Real-Time Operating System (RTOS) using FreeRTOS. The example demonstrates creating two tasks for 2 LED's green and red mounted on GPIO pins (Refer IOC file ) and running them based on periodic execution (vTaskdelayUntil() function used for periodic execution at fixed time intervals).
