@@ -13,7 +13,7 @@ Projects built using FreeRTOS, a light-weight OS for embedded systems. The proje
 ├── Include/                # Header files
 │   ├── FreeRTOSConfig.h    # customize the FreeRTOS kernel settings
 │   └── main.h              # Main application header file
-├── Middlewares/            # ThirdParty Files
-│   ├── main.c              # Main application file
-│   ├── freertos.c          # Code for freertos applications
+├── Middlewares/ThirdParty/FreeRTOS             
+│   ├── Include             # FreeRTOS header files
+│   ├── Source              # SEGGER patch file for integration
 └── README.md               # Project documentation
