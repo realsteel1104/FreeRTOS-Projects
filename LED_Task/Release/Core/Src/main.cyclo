@@ -1,0 +1,8 @@
+main.c:316:13:red_handler	1
+main.c:328:13:green_handler	1
+main.c:351:6:StartDefaultTask	1
+main.c:82:1:__io_putchar	1
+main.c:181:6:SystemClock_Config	3
+main.c:92:5:main	5
+main.c:370:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:387:6:Error_Handler	1
